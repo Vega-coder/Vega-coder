@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Mis contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vega-coder/Vega-coder/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vega-coder/Vega-coder/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Vega-coder/Vega-coder/output/github-snake.svg">
+</picture>
